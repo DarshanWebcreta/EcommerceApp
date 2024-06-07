@@ -8,3 +8,11 @@ temj aa clicking ma pan security aape chhe like button check lakhyu hoi but ana 
 
 Morgon : log mate use karyu chhe 
 
+
+Errors :
+
+"Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'",
+ 
+ sol : aavi error tyare aave jyare aapde update na time par id ne pan 
+ update karta hoi je mongo db a generate kari hoi 
+ atle tena mate id ne remove krvi pade atle error solve 
